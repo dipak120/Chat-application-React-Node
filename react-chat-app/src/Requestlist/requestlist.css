@@ -1,0 +1,71 @@
+.list-content{
+    min-height:300px;
+   }
+   .list-content .list-group .title{
+     background:#343a40;
+     border:2px solid #DDDDDD;
+     font-weight:bold;
+     color:#FFFFFF;
+   }
+   .list-group-item img {
+       height:80px; 
+       width:80px;
+   }
+   
+   .jumbotron .friend {
+       padding: 5px 5px !important;
+       font-size: 12px !important;
+       background: #3ac475;
+       color: #FFFFFF;
+   }
+
+    .requestsend {
+    padding: 5px 5px !important;
+    font-size: 12px !important;
+    background: #B5B5B5;
+    color: #FFFFFF;
+    }
+
+    .accept {
+        padding: 5px 5px !important;
+        font-size: 12px !important;
+        background: #343a40;
+        color: #FFFFFF;
+    }
+
+    .delete {
+        padding: 5px 5px !important;
+        font-size: 12px !important;
+        background: rgb(235, 68, 68);
+        color: #FFFFFF;
+        margin-left: 2px;
+    }
+
+   .prj-name {
+       color:#5bc0de;    
+   }
+   .break{
+       width:100%;
+       margin:20px;
+   }
+   .name {
+       color:#5bc0de;    
+   }
+
+
+img.profile-photo-lg{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+  }
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    background-color: #343a40!important;
+}
+
+
